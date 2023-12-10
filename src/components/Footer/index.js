@@ -4,6 +4,8 @@ import {  GithubIcon, LinkedinIcon, TwitterIcon } from "../Icons";
 import Link from "next/link";
 import siteMetadata from "@/src/utils/siteMetaData";
 
+
+import { useForm } from "react-hook-form";
 const Footer = () => {
   const {
     register,
