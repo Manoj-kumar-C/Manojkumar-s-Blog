@@ -1,6 +1,6 @@
 // please update required information
 const siteMetadata = {
-    title: 'My personal blog',
+    title: 'Manojkumar Blog (Fresh Spar Technologies)',
     author: 'Manojkumar C',
     headerTitle: 'My Personal Blog - Manojkumar C (Fresh Spar Technologies)',
     description: 'My Personal Blog platform using Next Js. I am full stack dev and founder of Fresh Spar Technologies',
