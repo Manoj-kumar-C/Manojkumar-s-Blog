@@ -1,4 +1,13 @@
-CREDITS : Code Bucks 
+## Blog App using Next js 
 
 
-https://github.com/codebucks27/Nextjs-contentlayer-blog
+
+#### Tech Stack 
+
+```
+
+Next js 
+Tailwind css
+Content Ful 
+
+```
