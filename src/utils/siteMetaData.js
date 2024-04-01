@@ -1,12 +1,13 @@
 // please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
+    title: 'My personal blog',
     author: 'Manojkumar C',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
+    headerTitle: 'My Personal Blog - Manojkumar C (Fresh Spar Technologies)',
+    description: 'My Personal Blog platform using Next Js. I am full stack dev and founder of Fresh Spar Technologies',
+    keywords:'founder of fresh spar technologies, manojkumar_c , manojkumar c, fresh spar technologies, mokka creators',
     language: 'en-us',
     theme: 'system', // system, dark or light
-    siteUrl: 'https://manojkumar-s-blog.vercel.app', // your website URL
+    siteUrl: 'https://manojkumar-c-blog.vercel.app', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
     email: 'contact.manojchandran@gmail.com', 
