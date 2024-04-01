@@ -51,6 +51,9 @@ export const metadata = {
     title: siteMetadata.title,
     images: [siteMetadata.socialBanner],
   },
+  others: {
+    'google-site-verification': '"vU2S4X2WplF-3GnKqFWhDM477c6OewGr1Rd7nBzZPcU"'
+  }
 };
 
 export default function RootLayout({ children }) {
